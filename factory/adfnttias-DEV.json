@@ -1,0 +1,9 @@
+{
+	"name": "adfnttias-DEV",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e3dde5b1-945b-43a4-85bf-9beacef5a3ca",
+		"tenantId": "3048dc87-43f0-4100-9acb-ae1971c79395"
+	}
+}
